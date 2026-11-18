@@ -90,4 +90,3 @@ services:
 volumes:
   mongodb-sarvin:
   nginx_cache:
-EOF
